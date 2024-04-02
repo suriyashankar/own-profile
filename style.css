@@ -1,0 +1,47 @@
+*{
+    margin :0;
+    padding:0;
+
+}
+nav{
+    color:rgb(18, 190, 181);
+    padding: 10px;
+}
+li,h1,ul{
+    display: inline;
+    padding-right: 40px;
+}
+h1{
+    margin-left: 100px;
+}
+ul{
+    margin-left: 20%;
+}
+li{
+    color: grey;
+    cursor: pointer;
+}
+li:hover{
+    color: rgb(169, 28, 150);
+}
+.name{
+    margin-top: 100px;
+    padding-left: 150px;
+    font-size: 20px;
+}
+.ree{
+    margin-top: 20px;
+    margin-left: -200px;
+}
+.Avatar{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    display: inline;
+    margin-left: 1000px;
+    margin-top: -200px;
+}
+.avatar1{
+    width: 50px;
+    height:40px;
+    }
